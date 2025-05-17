@@ -15,9 +15,9 @@ function App() {
       <div className="pt-20 max-w-7xl mx-auto px-6">
         <Hero />
         <Features />
+        <Workflow />
         <Pricing />
         <Testimonials />
-        <Workflow />
         <Footer />
       </div>
     </>
